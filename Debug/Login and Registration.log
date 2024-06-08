@@ -1,0 +1,4 @@
+﻿  Source.cpp
+g:\after geish\login and registration\login and registration\source.cpp(8): warning C4326: return type of 'main' should be 'int' instead of 'void'
+g:\after geish\login and registration\login and registration\source.cpp(14): warning C4101: 'find': unreferenced local variable
+  Login and Registration.vcxproj -> G:\after geish\Login and Registration\Debug\Login and Registration.exe
